@@ -4,7 +4,7 @@
 
 Draging file into page for uploading is a cool experience when we use browser.
 
-[Dropzone](http://www.dropzonejs.com/) is an easy to use drag'n'drop library. 
+[Dropzone](http://www.dropzonejs.com/) is a convinient drag'n'drop library. 
 
 I coded this tornado server for Dropzone upload sample page, and this sample works well with my Linux-PC.
 
